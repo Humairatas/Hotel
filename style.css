@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./e2.jpg); background-repeat: repeat; background-size: cover;
+    background-attachment: fixed;
+}
+.flex{
+    display: flex;
+}
+
+.pic{
+    background-color: ;
+    
+}
+.box{
+    border-left: 2px solid white;
+    margin-top: 10rem ;
+    margin-left: 5rem;
+    padding-left: 3rem;
+}
